@@ -6,5 +6,5 @@
 05: Release Cycle changes.
 06: Feature X branch started.
 07: Feature X - 1
-08: feature X - 2
-
+08: Feature X - 2
+09: Feature X - 3 Ready for release cycle.
